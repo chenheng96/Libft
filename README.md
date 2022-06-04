@@ -1,4 +1,4 @@
-### Subject:
+### Libft:
 A project that requires us to rewrite some functions and compile a static library using Makefile.
 
 ### Learning outcome:
